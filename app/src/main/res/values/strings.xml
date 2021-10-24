@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rentalz</string>
+    <string name="invalid_name">Property name is required</string>
+    <string name="invalid_address">Address is required</string>
+    <string name="invalid_type">Property type is required</string>
+    <string name="invalid_bedrooms">Bedroom is required</string>
+    <string name="invalid_price">Price is required</string>
+    <string name="invalid_reporter">Reporter name is required</string>
+</resources>
